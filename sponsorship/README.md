@@ -19,11 +19,11 @@ We raise funds in a few different ways:
 - School Factory will send a thank you letter with tax deduction info to sponsor when payment is received.
 
 ## Electronic Donations
-As of March 2017, we are shifting to using Flipcause.  We will write up some process around that -- for now, if you want to accept donations via website or crowdfunding campaign, please contact finance@bridgefoundry.org.
+As of March 2017, we are shifting to using Flipcause.  You can find the information about getting a Flipcause integration on your website [here](online-donations.md).
 
-For large recurring donations, such as a revenue share, we can accept bank transfers. These are arranged on a case-by-case basis.  Contact finance@bridgefoundry.org if this applies to you).
+We still support paypal for the sites that already have a button.  At some point, we will likely ask you to change; however, we don't have any timeline yet for this and will work with individual volunteers to make the process smooth. 
 
-We still support paypal for the sites that already have a button.  At some point, we will likely ask you to change; however, we don't have any timeline yet for this and will work with individual volunteers to make the process smooth. (For historical reference, here are the instructions on how we used to [request a paypal button](paypal-donations.md) for your website to collect small donations earmarked for your Chapter.
+For large recurring donations, such as a revenue share, we can accept bank transfers. These are arranged on a case-by-case basis.  Contact finance@bridgefoundry.org if this applies to you.
 
 
 ## Cash Donations
