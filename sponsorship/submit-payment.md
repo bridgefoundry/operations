@@ -14,8 +14,8 @@ Milwaukee, WI 53203
 ```
 **Make sure to list Bridge Foundry General Fund (or optionally a specific Bridge or Chapter) in the memo so funds are allocated correctly!** Examples: RailsBridge Boston-MA, GoBridge Portland-OR. This is especially important if an invoice was not sent for some reason.
 
-## Paypal
-Paypal is an option if preferred (there are fees with paypal 2.7-3.1% + $.30 per transaction.)
+## Flipcause
+If you have a [Flipcause button](online-donations.md) on your website, you can accept payments that way. 
 
 ## Credit Card Payment
 Since this is our most expensive form of payment, we usually leave this method off the invoice. If you would like to include it, please make a note of that in the comments section of the Invoice Request Form. There will be a "Pay Now" button on the invoice that is sent to the sponsor. If they would like to pay with a credit card, let the sponsor know they can select the credit card payment option on the invoice when they receive it. Please note that we are charged 3.40% + 25¢ per transaction for credit card fees, so you may want to consider that when considering donations by credit card.
@@ -24,7 +24,7 @@ Since this is our most expensive form of payment, we usually leave this method o
 ## Please note
 Checks are processed weekly.
 
-Paypal donations get processed on the first and third Friday of every month.
+Online donations are processed bi-weekly.
 
 Available funds will be noted in the [Master Accounting Spreasheet](../monitoring-your-funds.md).
 
