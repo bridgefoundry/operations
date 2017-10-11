@@ -2,6 +2,8 @@
 
 Expense report submissions are preferably done via Expensify.  Our goal is to make this easy for volunteers.  If any of this presents a hardship, please [let us know](mailto:finance@bridgefoundry.org)!  We're always looking for ways to streamline our processes.
 
+*Note: Please avoid submitting expenses for reimbursement October 20 - November 3 2017. We are transitioning our Expensify infrastructure from our fiscal sponsor to our new nonprofit during this time period. If you do need to submit a report during this time, contact us at finance@bridgefoundry.org to let us know and get an update on anything you need to know.*
+
 ## Get Set Up On Expensify
 
 1. Complete and submit this form: http://goo.gl/forms/7PjAqgoGM2.
@@ -30,6 +32,7 @@ When submitting reports, the following **must** be included to receive reimburse
 - Select an expense category and a tag (your chapter name or general fund) for each individual expense. List specifics in the Comment field for expenses in the Other category.
 - All expenses must have itemized receipts attached. (Include both itemized receipt and payment receipt if tips included in final total. Use our [template](https://drive.google.com/file/d/0ByFHpp-IkBaFbnBZTndCWTktcmc/view?usp=sharing) for on-site service providers if they don't provide receipts.)
 - Invoices that don't list an amount paid do not count as receipts. We need to see that you paid the invoice. 
+- When you need to attach multiple receipts for an expense item, you can either upload one multiple-page document to the expense item or you can add the second receipt as an "attachment" at the bottom of the report.
 - Expenses must be for a chapter or fund you are approved to submit expenses for, and must follow our [allowed expense](../bridge-chapter-policies.md#allowed-expenses) guidelines.
 - You must have a bank account set up with Expensify (or PayPal outside of the US).
 
@@ -60,4 +63,4 @@ Since ACH is the fastest way to get reimbursed via Expensify's secure system, we
 
 ## International Payments
 
-If you are located outside of the United States, follow the same instructions for submitting a report, but make sure to select the correct currency for each expense. The system will automatically convert it to US dollars. You won’t be able to add a bank account for ACH reimbursement though, so email us at finance@bridgefoundry.org to let us know you need the payment via PayPal. Let us know the email address your PayPal account is set up through. If you don’t have an account, you will need to set one up to receive reimbursements.
+As we transition to our new US corp, we have not yet figured out how to allow for grants/reimbursements to volunteers outside of the US. We would love to hear from you if you are holding workshops in other countries and would like to explore ideas with us for making this possible. Contact us at finance@bridgefoundry.org.
