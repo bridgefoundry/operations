@@ -20,10 +20,10 @@ If you are working with an on-site service provider like a babysitter, print out
 Most volunteers get reimbursed via Expensify. The system allows you to submit your receipts and then receive a direct deposit reimbursement to your bank account.
 
 ### Pex Cards
-Chapter and Bridge Leaders have the option of applying for a prepaid cash card (Pex card), allowing them to pay directly for expenses. They are required to submit receipts via Expensify by 5 days after month end for all expenses charged to the card.
+Chapter and Bridge Leaders have the option of applying for a prepaid cash card (Pex card), allowing them to pay with BridgeFoundry money for expenses. They are required to submit receipts via Expensify by 5 days after month end for all expenses charged to the card.
 
 ### Direct Pay
-Chapters and Bridges can also have Bridge Foundry pay directly for expenses. This can be done via having the vendor bill us or sometimes we can call them with credit card information. This works best for payments that have at least a week lead time so we can make arrangements.
+Chapters and Bridges can also ask Bridge Foundry to pay for expenses. This can be done via having the vendor bill us or sometimes we can call them with credit card information. This works best for payments that have at least a week lead time so we can make arrangements.
 
 ### Cash Advances
 For Independent Communities that don't have volunteers who can afford to advance the funds and be reimbursed, we can usually send funds in advance. Submitting receipts on time via Expensify is extra important in this case, and you will need to send back any unused funds.
