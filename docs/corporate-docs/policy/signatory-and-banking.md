@@ -18,7 +18,7 @@ accounts, regardless of amount, must be authorized, in writing, by any two offic
 
 _General_
 
-Any two (2) officers or individuals authorized by the Board may, on behalf of the Corporation transact, and delegate its respective authority to transact business with third-parties that do not exceed the amount of **$5,000** per transaction. Single transactions that exceed this threshold, or multiple transactions with a single third-party that exceed this threshold within a **three **month period, shall require majority approval by the Board of Directors.
+Only the Board of Directors may delegate authority to incur expenses over **$5,000**.  Single expense transactions that exceed this threshold, or multiple transactions with a single third-party that exceed this threshold within a **three (3) month period**, shall also require majority approval by the Board of Directors.
 
-
+Furthermore, if an authorized transaction requires a contract, only the CEO is authorized to sign on behalf of the organization.
 
