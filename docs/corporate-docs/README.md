@@ -10,14 +10,14 @@ Public information of the corporation
 Current Board of Directors:
 
 * Sarah Allen, Chair
-* Isa Herico
 * Melissa Xie
+* Isa Herico Velasco
 
 Current corporate Officers:
 
-* Sarah Allen, CEO
-* Isa Herico, Secretary
+* Sarah Allen, CEO (on-leave)
 * Melissa Xie, Treasurer
+* Eggya Chiquita, Secretary
 
 Legal & governance documents:
 
