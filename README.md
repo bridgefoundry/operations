@@ -13,15 +13,13 @@ For details about who runs our operations and writes this guide, see [CONTRIBUTI
 
 operations.bridgefoundry.org uses `mkdocs` to turn this git repository
 into well-formatted HTML. You can run `mkdocs` on your own computer to
-preview the site. We use Travis-CI to generate the site when the
-`master` branch updates; Travis-CI [stores its logs
-here.](https://travis-ci.org/bridgefoundry/operations) 
+preview the site.
 
-We use Firebase to serve the website to the world; talk to Sarah for access. Now and then we need to refresh the token:
+We use GitHub Actions to generate the site when the
+`main` branch updates; Build logs can be found
+[here](https://github.com/bridgefoundry/operations/actions/workflows/build.yml).
 
-1. if needed `npm install -g firebase-tools`
-2. `firebase login:ci`
-3. in [Travis Settings](https://travis-ci.org/bridgefoundry/operations/settings), deleted FIREBASE_TOKEN, add new one
+We use GitHub Pages to serve the website to the world.
 
 ## Running Locally
 To generate the nicely-formatted site on your own computer, open up a
