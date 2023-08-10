@@ -1,29 +1,76 @@
-# PEX Card
+# Corporate Cards
 
-A Pex Card works as a debit card and it is designed to add greater flexibility and accessibility to funds for Chapter and Bridge Leaders.
+Chapters, Bridges, and other programs that operate under Bridge Foundry can sign
+up to take advantage of our corporate cards program, which is managed through
+[Divvy]. These cards act like debit cards and are tied to the programs as
+specified in the application. They are designed to add greater flexibility and
+accessibility to funds for our program leaders.
 
-Each card costs us $7.50/month, so we need to reserve these cards for active Chapters and Bridges. Signing an agreement as a Chapter Leader or Bridge Leader qualifies you for a Pex card, and we ask that if you only expect to charge expenses to it very rarely, you consider doing reimbursements or direct pay instead so we can keep these maintenance fees lower.
+[Divvy]: https://getdivvy.com/
 
 ## Application Process
-Complete the [PEX Card Application & Agreement](https://docs.google.com/forms/d/e/1FAIpQLSfv5xWcx1g1hKcbZWHuyBfW9yt2-JI7tTYYRizQHdu5nlK3ig/viewform?usp=sf_link) form. Be prepared to provide the following information:
 
-- Your First and Last Name
-- Address
-- Date of Birth
-- Phone number
-- How soon you will need the card
+If you're a program leader and have not signed a [Volunteer Agreement] yet, please
+reach out to operations@bridgefoundry.org and we'll get you set up.
 
-It takes about a **month for you to receive your card** after submitting the application, so plan ahead! You can also choose to pay $35 or $45 to expedite the request, but it will still take about a week. See detailed options in the application form.
+When you're ready to receive a card, complete the [Card Application &
+Agreement][card application] form and allow up to a week for the Finance team to
+process this.
 
-## Activation
-When you receive your card in the mail, contact finance@bridgefoundry.org to activate the card. Tell us at that time how much money you'd like loaded on it right away.
+[Volunteer Agreement]: https://drive.google.com/file/d/0B15PjYEwl2GNeFdSQUVrdEN5Zlk/view?usp=sharing&resourcekey=0-LMrLirY4wtVP8gyMhWxWow
+[card application]: https://forms.gle/NAKr7UqK8y976P3K9
+
+## Card Types
+
+### Virtual Cards
+
+After you've set up your Divvy account, you will automatically have the ability
+to create virtual cards. You can have as many of these as you'd like for your
+assigned budget(s) on Divvy. 
+
+You can find out more about the different types of virtual cards and how to
+manage them in [this article][virtual cards overview].
+
+[virtual cards overview]: https://help.getdivvy.com/en/articles/2826509-virtual-cards-overview
+
+### Physical Cards
+
+If you anticipate needing a physical card to make purchases, you may opt in to
+receive one when you fill out the application. If you opted out initially and
+change your mind later, you can order one through Divvy directly.
+
+It takes **7-14 business days** after processing the application to receive your
+card. You can also choose to pay $45 to expedite the the shipping to 4-6
+business days. This fee will be deducted from the Chapter or Bridge fund you're
+operating under.
+
+More about managing physical cards [here](https://help.getdivvy.com/en/collections/2467736-physical-cards).
+
+#### Activation
+
+Once you receive your physical card, you can activate it on the Divvy website or
+mobile app. See this [Divvy help page][card activation] for instructions.
+
+[card activation]: https://help.getdivvy.com/en/articles/3210756-how-do-i-activate-a-physical-card-in-divvy
 
 ## Use Guidelines
 
-- **To load the card:** We will transfer funds to your card upon request to finance@bridgefoundry.org, as long as you have enough funds for your Chapter or Bridge. Transfers are subject to a one week bank transfer delay, so please plan ahead! Your card can have a maximum of $3,000 on it at any given time. This policy exists to minimize financial risk from stolen cards and/or fraudulent charges. If you expect to need a lot of funds in a short time, let us know how much you will need overall and then communicate as you spend funds and need more added.
+- **Monitor your Divvy budget:** You can check your card and budget balances by
+logging into [Divvy](https://app.divvy.co/). The budgets on Divvy are set based 
+on an estimate of how much you'll be spending on a monthly basis. This amount
+will never be higher than your total available funds. If you need to increase
+your budget, please use the ["Request Funds" feature][request funds] on Divvy or
+reach out to finance@bridgefoundry.org.
 
+- **Monitor your overall funds:** The balance on our [master accounting
+spreadsheet] reflects total available funds, including what is on your card. It
+does not indicate how much is on the card. 
 
-- **Monitor your funds:** You can check your account balance by logging in here: https://ch.pexcard.com/  The balance on our master accounting spreadsheet reflects total available funds, including what is on your Pex card. It does not indicate how much is on the card. You must make a request for us to transfer funds to Pex.
+- **Save all receipts:** All charges made on your card(s) must be reconciled on
+Divvy before the end of the month of when the expense incurred. Transaction
+details must also include a copy of the receipt. Failure to complete transaction
+details on time or  any misuse of funds may result in the revocation of card
+privileges.
 
-
-- **Reporting:** Be sure to submit an expense report every month that there are any charges on the card. The report is due within 5 days of the end of the month. Failure to submit an expense report on time or any misuse of funds may result in the revocation of PEX Card privileges.
+[request funds]: https://help.getdivvy.com/en/articles/1963018-how-do-i-request-funds-as-a-budget-member-in-divvy
+[master accounting spreadsheet]: https://docs.google.com/spreadsheets/d/1ImzwdUEd6j0jwDGW7fHS42qc739fh9LMOUmu_yggIO4/edit?usp=sharing
