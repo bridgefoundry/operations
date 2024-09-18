@@ -11,13 +11,13 @@ Current Board of Directors:
 - Desi McAdam, Chair
 - Sarah Allen
 - Melissa Xie
-- Kinsey Durham Grace
+- Kinsey Durham Grace (on leave)
 
 Current corporate Officers:
 
-- Sarah Allen, CEO (on leave)
+- Sarah Allen, CEO 
 - Melissa Xie, Treasurer
-- Kinsey Durham Grace, Secretary
+- Desi McAdam, Secretary
 
 Legal & governance documents:
 
