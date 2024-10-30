@@ -11,7 +11,7 @@ Current Board of Directors:
 - Desi McAdam, Chair
 - Sarah Allen
 - Melissa Xie
-- Kinsey Durham Grace (on leave)
+- Laura Kirby
 
 Current corporate Officers:
 
