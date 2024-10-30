@@ -28,7 +28,7 @@ Legal & governance documents:
 - [IRS exemption determination letter](https://drive.google.com/file/d/0B15PjYEwl2GNY2JzT1JIblZpdnM/view?resourcekey=0-24nPoHCexmySZ-EgWpEyJg)
 - [Corporate policies](policy)
 - Legal representation: [Nixon Peabody summary of engagement](https://docs.google.com/document/d/1FfLTCkzP1OfdgahDmlztjCIqAurYzwzkjgug5fXxjkM/view)
-- [Minutes of the Board of Directors](https://drive.google.com/drive/folders/0BzPWVMj9wWa6MVhCTGo5b1hwLVk?resourcekey=0-GpK-TEnnXU_A3W_7LCk_gA)
+- [Minutes of the Board of Directors](board-of-directors-minutes)
 - [Committees](https://github.com/bridgefoundry/operations/tree/main/docs/committees)
 
 ## Strategy
