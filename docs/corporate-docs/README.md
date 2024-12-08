@@ -8,14 +8,14 @@ Public information of the corporation
 
 Current Board of Directors:
 
-- Desi McAdam, Chair
+- Laura Kirby, Chair
 - Sarah Allen
 - Melissa Xie
-- Laura Kirby
+- Desi McAdam
 
 Current corporate Officers:
 
-- Sarah Allen, CEO 
+- Sarah Allen, CEO
 - Melissa Xie, Treasurer
 - Desi McAdam, Secretary
 
