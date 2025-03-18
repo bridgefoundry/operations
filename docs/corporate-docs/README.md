@@ -12,6 +12,7 @@ Current Board of Directors:
 - Sarah Allen
 - Melissa Xie
 - Desi McAdam
+- Margaret Parsa
 
 Current corporate Officers:
 
