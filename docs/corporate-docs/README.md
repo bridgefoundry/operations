@@ -11,14 +11,13 @@ Current Board of Directors:
 - Laura Kirby, Chair
 - Sarah Allen
 - Melissa Xie
-- Desi McAdam
 - Margaret Parsa
 
 Current corporate Officers:
 
 - Sarah Allen, CEO
 - Melissa Xie, Treasurer
-- Desi McAdam, Secretary
+- Margaret Parsa, Secretary
 
 Legal & governance documents:
 
