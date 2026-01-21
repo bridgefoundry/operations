@@ -2,6 +2,7 @@
 
 The following are minutes of official meeetings of the Bridge Foundry board of directors, in compliance with US 501c3 certification as a non-profit corporation, allowing for tax-deductible contributions in the US.
 
+- [2026-01-14](2026-01-14-minutes.md)
 - [2025-11-19](2025-11-19-minutes.md)
 - [2025-07-09](2025-07-09-minutes.md)
 - [2025-03-18](2025-03-18-minutes.md)
