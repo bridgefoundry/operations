@@ -14,6 +14,7 @@ As long as your Bridge remains active and works in a way that is consistent with
     * If you want to raise funds in other ways, sign up as a Volunteer Fundraiser (separate agreement)
 * Hold funds raised for the Bridge in reserve for your Bridge’s use
     * If the Bridge becomes inactive, we may seek out new leaders. When there are no leaders for a Bridge, we reserve the right to allocate the funds to other programs to support our mission.
+    * Per the [Annual Budget Reallocation Policy](../corporate-docs/policy/annual-budget-reallocation.md), each January 10% of your Bridge's balance is transferred to the Bridge Foundry General Fund. Leaders with specific plans for their funds may request they be reserved.
 * Track financial transactions for your bridge in a location you can access to view history and bridge balance (currently via public spreadsheet)
 * Make it easy for your bridge leaders to spend funds available by:
     * Providing a expense card for direct purchases to one bridge leader
