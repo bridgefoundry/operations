@@ -13,7 +13,8 @@ As long as your Chapter remains active and works in a way that is consistent wit
 * Provide infrastructure for accepting online donations and send gift receipts 
     * If you want to raise funds in other ways, sign up as a Volunteer Fundraiser (separate agreement)
 * Hold funds raised for the chapter in reserve for your chapter’s sole use
-    * If the chapter reverts to a Community Chapter, we reserve the right to allocate the funds elsewhere. AND, we will check in with you before that change to understand if you have workshops planned as a Community Chapter so we can use the remaining funds for a grant to the chapter. 
+    * If the chapter reverts to a Community Chapter, we reserve the right to allocate the funds elsewhere. AND, we will check in with you before that change to understand if you have workshops planned as a Community Chapter so we can use the remaining funds for a grant to the chapter.
+    * Per the [Annual Budget Reallocation Policy](../corporate-docs/policy/annual-budget-reallocation.md), each January 10% of your chapter's balance is transferred to the Bridge Foundry General Fund. Leaders with specific plans for their funds may request they be reserved. 
 * Track financial transactions for your chapter in a location you can access to view history and chapter balance (currently via public spreadsheet)
 * Make it easy for your chapter leaders to spend funds available to it by:
     * Providing an expense card for direct purchases to one chapter leader

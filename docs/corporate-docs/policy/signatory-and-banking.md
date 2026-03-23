@@ -20,5 +20,7 @@ _General_
 
 Only the Board of Directors may delegate authority to incur expenses over **$5,000**.  Single expense transactions that exceed this threshold, or multiple transactions with a single third-party that exceed this threshold within a **three (3) month period**, shall also require majority approval by the Board of Directors.
 
+_Amendment adopted January 14, 2026:_ The Board of Directors delegates approval to the relevant Bridge or Program leader and one officer for specific Bridge or Program expenses above $5,000 (single transactions or as multiple transactions over a three-month period), which include expenses for multiple beneficiaries, such as scholarships to a conference, that are in support of our mission, provided that there are sufficient funds allocated to the specific Bridge or Program.
+
 Furthermore, if an authorized transaction requires a contract, only the CEO is authorized to sign on behalf of the organization.
 

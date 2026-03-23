@@ -52,6 +52,10 @@ We keep information with Personally Identifiable Information (PII) private. Our 
 
 ## History
 
+- Desi McAdam, Chair 5/23/2022-12/7/2024
+- Desi McAdam, Secretary 8/15/2023-3/18/2025
+- Kinsey Durham Grace, Secretary 9/6/2022-8/15/2023
+- Sarah Allen, Secretary 5/23/2022-9/6/2022
 - Eggya Chiquita, Secretary 2/16/2020-2/13/2022
 - Ilen Zazueta-Hall, Chair 1/10/2018-12/31/2019
 - Karen Herreid, Treasurer
