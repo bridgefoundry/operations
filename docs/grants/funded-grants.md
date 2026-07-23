@@ -1,5 +1,5 @@
 # Funded Grants
-Funded Grants are when a [Volunteer Fundraiser](https://rebrand.ly/volunteer-fundraiser-policies) raises money for your Community and then we distribute it via a grant. We ask that you still "apply" for the grant so that we have a paper trail and you've agreed to follow our policies for [allowed expenses](./using-funds/approved-expenses-policy.md) and [expense reports](./using-funds/expense-reports.md).
+Funded Grants are when a [Volunteer Fundraiser](https://rebrand.ly/volunteer-fundraiser-policies) raises money for your Community and then we distribute it via a grant. We ask that you still "apply" for the grant so that we have a paper trail and you've agreed to follow our policies for [allowed expenses](../using-funds/approved-expenses-policy.md) and [expense reports](../using-funds/expense-reports.md).
 
 Note: this category does not apply to Chapters, as funds they raise via Volunteer Fundraisers are available for their direct use.
 
